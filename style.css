@@ -8,6 +8,17 @@
     margin-top: 100px;
   }
   
+  @media (max-width: 460px){
+    .name{
+        font-size: 40px;
+    }
+    .greeting{
+        font-size: 28px;
+    }
+
+  }
+
+  
   h1,
   h2,
   h3 {
